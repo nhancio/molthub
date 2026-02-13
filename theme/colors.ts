@@ -1,0 +1,25 @@
+export const colors = {
+  background: {
+    start: '#0F0F1A',
+    end: '#1A1A2E',
+  },
+  accent: '#E53935',
+  accentDark: '#B71C1C',
+  accentLight: '#FF5252',
+  card: 'rgba(255, 255, 255, 0.05)',
+  cardBorder: 'rgba(255, 255, 255, 0.1)',
+  cardSelected: 'rgba(229, 57, 53, 0.12)',
+  cardSelectedBorder: 'rgba(229, 57, 53, 0.6)',
+  text: {
+    primary: '#FFFFFF',
+    secondary: 'rgba(255, 255, 255, 0.7)',
+    muted: 'rgba(255, 255, 255, 0.4)',
+  },
+  success: '#4CAF50',
+  warning: '#FFC107',
+  error: '#E53935',
+  chatBot: 'rgba(255, 255, 255, 0.08)',
+  chatUser: 'rgba(229, 57, 53, 0.2)',
+  input: 'rgba(255, 255, 255, 0.08)',
+  inputBorder: 'rgba(255, 255, 255, 0.15)',
+};
